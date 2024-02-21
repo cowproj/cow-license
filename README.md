@@ -1,4 +1,4 @@
 # cow-license
-A made up license by me, for all my projects
+The Cow Project's own license. Most of the Cow Project is under this license.
 
 Check out the [license](./LICENSE.md).
